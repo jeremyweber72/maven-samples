@@ -5,6 +5,7 @@
 	<!-- 
 		test1 - add 
 		test2 - add 
+		test3 - add 
 		-->
 	<groupId>com.example.maven-samples</groupId>
 	<artifactId>parent</artifactId>
