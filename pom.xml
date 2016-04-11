@@ -7,6 +7,8 @@
 		test2 - add 
 		test3 - add 
 		test4 - add 
+		test5 - add 
+		test6 - add 
 		-->
 	<groupId>com.example.maven-samples</groupId>
 	<artifactId>parent</artifactId>
@@ -25,6 +27,7 @@
 	</prerequisites>
 
 	<profiles>
+
 		<!-- Jenkins by default defines a property BUILD_NUMBER which is used to enable the profile. -->
 		<profile>
 			<id>jenkins</id>
